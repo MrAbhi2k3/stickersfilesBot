@@ -4,23 +4,17 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
-
-Welcome to {}
-
-You can use this bot to convert
-1) Sticker to Image
-2) Image to Sticker
-
+Hello! {}
+<b>This is A Sticker to Image & Image to Sticker Function Bot.</b>
 Send Multiple images or stickers and it will work the same
 
-By @StarkBots
+Made with ❤ By @TheTeleRoid.
     """
 
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="🏡 Home", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
@@ -37,14 +31,11 @@ By @StarkBots
 
     # Help Message
     HELP = """
-You Really Need Help ?!?!?!?!
-
-1) Send Sticker to get Image
-2) Send Image to get Sticker
-
-Note : You can send any amount of images or stickers or both together at once and it will work with same speed and accuracy.
-
-More features in development. Keep track by joining @StarkBots.
+There is nothing hard to use this:-
+Just Follow Given Below.....! 
+-> Send Sticker to get Image. 
+-> Send Image to get Sticker. 
+You can send any amount of images or stickers or both together at Once.
     """
 
     # About Message
