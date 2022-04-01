@@ -13,20 +13,20 @@ Made with ❤ By @TheTeleRoid.
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("👤 Master", url="https://t.me/TheTeleRoid")],
         [InlineKeyboardButton(text="🏡 Home", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("Want to Buys Bots ", url="https://t.me/PayForBotz")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("♻ Help", callback_data="help"),
+            InlineKeyboardButton("👤 About", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("⭕ Updates Channel ⭕", url="https://t.me/TeleRoidGroup")],
+        [InlineKeyboardButton("😇 Support Group ", url="https://t.me/TeleRoid14")],
     ]
 
     # Help Message
@@ -40,15 +40,19 @@ You can send any amount of images or stickers or both together at Once.
 
     # About Message
     ABOUT = """
-**About This Bot** 
+**Know About This Bot** 
 
-Bot created by @StarkBots
+📢 Updates : [Channel](https://t.me/TeleRoidGroup) 
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+😇 Support : [Group](https://t.me/TeleRoid14) 
 
-Framework : [Pyrogram](docs.pyrogram.org)
+🐱 Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
 
-Language : [Python](www.python.org)
+🌐 Framework : [Pyrogram](docs.pyrogram.org)
 
-Developer : @StarkProgrammer
+🈶 Language : [Python](www.python.org)
+
+👮 Developer : @TheTeleRoidGroup
+
+⚡ Powered By : @MoviesFlixers_DL
     """
