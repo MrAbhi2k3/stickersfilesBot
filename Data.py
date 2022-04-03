@@ -25,8 +25,11 @@ Made with ❤ By @TheTeleRoid.
             InlineKeyboardButton("♻ Help", callback_data="help"),
             InlineKeyboardButton("👤 About", callback_data="about")
         ],
-        [InlineKeyboardButton("⭕ Updates Channel ⭕", url="https://t.me/TeleRoidGroup")],
-        [InlineKeyboardButton("😇 Support Group ", url="https://t.me/TeleRoid14")],
+        [InlineKeyboardButton("⭕ Updates Channel ⭕", url="https://t.me/TeleRoidGroup"),
+         InlineKeyboardButton("😇 Support Group ", url="https://t.me/TeleRoid14")],
+        [
+            InlineKeyboardButton("🔐 Close", callback_data="close")
+        ],
     ]
 
     # Help Message
