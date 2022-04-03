@@ -13,7 +13,8 @@ Made with ❤ By @TheTeleRoid.
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("👤 Master", url="https://t.me/TheTeleRoid")],
+        [InlineKeyboardButton("👨‍💻 Master", url="https://t.me/TheTeleRoid"),
+         InlineKeyboardButton("👤 About", callback_data="about")],
         [InlineKeyboardButton(text="🏡 Home", callback_data="home")],
     ]
     # Rest Buttons
@@ -55,7 +56,7 @@ You can send any amount of images or stickers or both together at Once.
 │
 ├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
 │
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.9</a></b>
 │
 ├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>Pred∆tor</a></b>
 │
