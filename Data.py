@@ -43,22 +43,24 @@ You can send any amount of images or stickers or both together at Once.
 
     # About Message
     ABOUT = """
-**Know About This Bot** 
-╭────[🔅Stickers🔅]───⍟
+╭────[🔅Stickers Info🔅]───⍟
 │
-├📢 Updates : [Channel](https://t.me/TeleRoidGroup) 
+├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>Bots Channel</a></b>
 │
-├😇 Support : [Group](https://t.me/TeleRoid14) 
+├<b>👥 Version : <a href='https://t.me/joinchat/t1ko_FOJxhFiOThl'>0.9.2 beta</a></b>
 │
-├🐱 Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ'>Click Here</a></b>
 │
-├🌐 Framework : [Pyrogram](docs.pyrogram.org)
+├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
-├🈶 Language : [Python](www.python.org)
+├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
 │
-├👮 Developer : @TheTeleRoid
+├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├⚡ Powered By : @MoviesFlixers_DL
+├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>Pred∆tor</a></b>
 │
+├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>HindiWebNetwork</a></b>
+│
+╰──────[Thanks 😊]───⍟
 
     """
