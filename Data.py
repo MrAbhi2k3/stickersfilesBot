@@ -44,18 +44,21 @@ You can send any amount of images or stickers or both together at Once.
     # About Message
     ABOUT = """
 **Know About This Bot** 
+╭────[🔅Stickers🔅]───⍟
+│
+├📢 Updates : [Channel](https://t.me/TeleRoidGroup) 
+│
+├😇 Support : [Group](https://t.me/TeleRoid14) 
+│
+├🐱 Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+│
+├🌐 Framework : [Pyrogram](docs.pyrogram.org)
+│
+├🈶 Language : [Python](www.python.org)
+│
+├👮 Developer : @TheTeleRoid
+│
+├⚡ Powered By : @MoviesFlixers_DL
+│
 
-📢 Updates : [Channel](https://t.me/TeleRoidGroup) 
-
-😇 Support : [Group](https://t.me/TeleRoid14) 
-
-🐱 Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
-
-🌐 Framework : [Pyrogram](docs.pyrogram.org)
-
-🈶 Language : [Python](www.python.org)
-
-👮 Developer : @TheTeleRoidGroup
-
-⚡ Powered By : @MoviesFlixers_DL
     """
