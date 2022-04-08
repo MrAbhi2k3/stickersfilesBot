@@ -5,6 +5,7 @@ class Data:
     # Start Message
     START = """
 Hello! {}
+
 <b>This is A Sticker to Image & Image to Sticker Function Bot.</b>
 Send Multiple images or stickers and it will work the same
 
@@ -20,14 +21,11 @@ Made with ❤ By @TheTeleRoid.
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("Want to Buys Bots ", url="https://t.me/PayForBotz")
+            InlineKeyboardButton("⭕ Channel ⭕", url="https://t.me/TeleRoidGroup"),
+            InlineKeyboardButton("😇 Support", url="https://t.me/TeleRoid14")
         ],
-        [
-            InlineKeyboardButton("♻ Help", callback_data="help"),
-            InlineKeyboardButton("👤 About", callback_data="about")
-        ],
-        [InlineKeyboardButton("⭕ Updates Channel ⭕", url="https://t.me/TeleRoidGroup"),
-         InlineKeyboardButton("😇 Support Group ", url="https://t.me/TeleRoid14")],
+        [InlineKeyboardButton("♻ Help", callback_data="help"),
+         InlineKeyboardButton("👤 About ", callback_data="about")],
         [
             InlineKeyboardButton("🔐 Close", callback_data="close")
         ],
