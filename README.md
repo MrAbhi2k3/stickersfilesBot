@@ -1,4 +1,4 @@
-# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/Sticker_Tools_Bot)
+# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/TeleRoid_Sticker_Bot)
 
 > A star ⭐ from you means a lot to us!
 
